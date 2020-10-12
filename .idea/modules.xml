@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/architecture-design/architecture-design.iml" filepath="$PROJECT_DIR$/architecture-design/architecture-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/training-camp.iml" filepath="$PROJECT_DIR$/.idea/training-camp.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-01/week-01.iml" filepath="$PROJECT_DIR$/architecture-design/week-01/week-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-design/week-03/week-03.iml" filepath="$PROJECT_DIR$/architecture-design/week-03/week-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-design/week-04/week-04.iml" filepath="$PROJECT_DIR$/architecture-design/week-04/week-04.iml" />
     </modules>
   </component>
 </project>

@@ -7,11 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="week-01" />
+        <module name="week-04" />
+        <module name="week-03" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="architecture-design" target="1.5" />
       <module name="week-01" target="1.5" />
+      <module name="week-03" target="1.5" />
+      <module name="week-04" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
