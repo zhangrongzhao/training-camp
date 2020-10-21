@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aois-design/aois-design.iml" filepath="$PROJECT_DIR$/aois-design/aois-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/architecture-design.iml" filepath="$PROJECT_DIR$/architecture-design/architecture-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/training-camp.iml" filepath="$PROJECT_DIR$/.idea/training-camp.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-01/week-01.iml" filepath="$PROJECT_DIR$/architecture-design/week-01/week-01.iml" />
