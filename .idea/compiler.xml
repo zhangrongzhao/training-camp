@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="week-01" />
-        <module name="aois-design" />
+        <module name="week-06" />
         <module name="week-05" />
         <module name="week-04" />
         <module name="week-03" />
+        <module name="week-01" />
+        <module name="aois-design" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -20,6 +21,7 @@
       <module name="week-03" target="1.5" />
       <module name="week-04" target="1.5" />
       <module name="week-05" target="1.5" />
+      <module name="week-06" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
