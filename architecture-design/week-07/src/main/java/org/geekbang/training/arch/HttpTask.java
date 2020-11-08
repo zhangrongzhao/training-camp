@@ -26,7 +26,7 @@ public class HttpTask implements Callable<Long> {
             String result = response.thenApply(HttpResponse::body).get();
             long end = System.nanoTime();
             //System.out.println(index+"请求结束时间：" + end);
-            System.out.println(index+"请求响应时间(毫秒)：" + TimeUnit.NANOSECONDS.toMillis(end-start));
+            System.out.println("Thread"+Thread.currentThread().getId()+"-第"+index + "个请求响应时间(毫秒)：" + TimeUnit.NANOSECONDS.toMillis(end-start));
             return end-start;
         } catch (Exception e) {
             e.printStackTrace();
