@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>week-01</module>
+        <module>week-02</module>
         <module>week-03</module>
         <module>week-04</module>
         <module>week-05</module>
@@ -18,7 +19,6 @@
         <module>week-08</module>
         <module>week-09</module>
         <module>week-10</module>
+        <module>week-11</module>
     </modules>
-
-
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/architecture-design/architecture-design.iml" filepath="$PROJECT_DIR$/architecture-design/architecture-design.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/training-camp.iml" filepath="$PROJECT_DIR$/.idea/training-camp.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-01/week-01.iml" filepath="$PROJECT_DIR$/architecture-design/week-01/week-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-design/week-02/week-02.iml" filepath="$PROJECT_DIR$/architecture-design/week-02/week-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-03/week-03.iml" filepath="$PROJECT_DIR$/architecture-design/week-03/week-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-04/week-04.iml" filepath="$PROJECT_DIR$/architecture-design/week-04/week-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-05/week-05.iml" filepath="$PROJECT_DIR$/architecture-design/week-05/week-05.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-08/week-08.iml" filepath="$PROJECT_DIR$/architecture-design/week-08/week-08.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-09/week-09.iml" filepath="$PROJECT_DIR$/architecture-design/week-09/week-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/architecture-design/week-10/week-10.iml" filepath="$PROJECT_DIR$/architecture-design/week-10/week-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/architecture-design/week-11/week-11.iml" filepath="$PROJECT_DIR$/architecture-design/week-11/week-11.iml" />
     </modules>
   </component>
 </project>
