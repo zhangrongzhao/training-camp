@@ -15,6 +15,7 @@
         <module name="week-03" />
         <module name="week-02" />
         <module name="week-01" />
+        <module name="week-12" />
         <module name="week-11" />
         <module name="week-10" />
         <module name="aois-design" />
@@ -34,6 +35,7 @@
       <module name="week-09" target="1.5" />
       <module name="week-10" target="1.5" />
       <module name="week-11" target="1.5" />
+      <module name="week-12" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
