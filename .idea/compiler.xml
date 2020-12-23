@@ -20,6 +20,9 @@
         <module name="week-03" />
         <module name="week-02" />
         <module name="week-01" />
+        <module name="week-16" />
+        <module name="week-15" />
+        <module name="week-14" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
@@ -38,6 +41,9 @@
       <module name="week-11" target="1.5" />
       <module name="week-12" target="1.5" />
       <module name="week-13" target="1.5" />
+      <module name="week-14" target="1.5" />
+      <module name="week-15" target="1.5" />
+      <module name="week-16" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
