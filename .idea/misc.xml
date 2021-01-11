@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/architecture-design/pom.xml" />
         <option value="$PROJECT_DIR$/aois-design/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-design/pom.xml" />
       </list>
     </option>
   </component>
