@@ -9,7 +9,7 @@ public class DefaultUser implements User {
         this.userEntity=userEntity;
     }
 
-    @Override
+
     public boolean checkPassword(String userId, String password) {
         if(userId==null||
            password==null||
@@ -21,7 +21,7 @@ public class DefaultUser implements User {
         return checkPassword(userId,password,this.userEntity.getEncryptedPassword());
     }
 
-    @Override
+
     public boolean checkPassword(String userId, String password, String encryptedPassword) {
         return MD5Utils.verify(password, encryptedPassword);
     }
